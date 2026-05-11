@@ -6,9 +6,9 @@ This repository presents a PM2.5 forecasting workflow for Delhi air quality usin
 
 The dataset used in this work is:
 
-> Nitiraj, K., & Jagadish, T. (2026). *Dataset: Air Quality Dataset for Delhi (2022-08-01 to 2026-02-18)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18673773
+> Nitiraj, K., & Jagadish, T. (2026). *Dataset: Air Quality Dataset for Delhi (2022-08-01 to 2026-02-18)* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18673773](https://zenodo.org/records/18673773)
 
-The Zenodo record describes the dataset as historical air quality time-series data for Delhi, covering 2022-08-01 to 2026-02-18, retrieved from the Open-Meteo Air Quality service using the `cams_global` domain. The record was published on February 17, 2026, under a CC0 license. :contentReference[oaicite:0]{index=0}
+The Zenodo record describes the dataset as historical air quality time-series data for Delhi, covering 2022-08-01 to 2026-02-18, retrieved from the Open-Meteo Air Quality service using the `cams_global` domain. The record was published on February 17, 2026, under a CC0 license.
 
 ## Dataset
 
