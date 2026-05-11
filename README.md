@@ -251,14 +251,13 @@ To ensure reproducibility:
 * clearly report model configurations,
 * save generated forecasts and evaluation tables separately.
 
-## Dataset Citation
+## Work Citation
 
-Please cite the original dataset as:
+Please cite this work as:
 
 ```text
-Nitiraj, K., & Jagadish, T. (2026). Dataset: Air Quality Dataset for Delhi 
-(2022-08-01 to 2026-02-18) [Data set]. Zenodo. 
-https://doi.org/10.5281/zenodo.18673773
+Ray, P. P. (2026). PM2.5 forecasting using machine learning and transformer models. GitHub. 
+https://github.com/ParthaPRay/PM2.5-forecasting-using-machine-learning-and-transformer/
 ```
 
 ## Acknowledgement
