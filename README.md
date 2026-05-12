@@ -264,8 +264,4 @@ https://github.com/ParthaPRay/PM2.5-forecasting-using-machine-learning-and-trans
 
 This repository uses the Delhi air quality dataset published on Zenodo by Nitiraj and Jagadish. The dataset supports air quality trend analysis and forecasting research for Delhi using daily pollutant and atmospheric variables.
 
-## License
-
-The original dataset is available under the Creative Commons Zero v1.0 Universal license, as stated in the Zenodo record. Users should follow the licensing terms of the dataset and the licenses of all software libraries used in this repository.
-
 
